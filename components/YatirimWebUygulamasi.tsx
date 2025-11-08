@@ -813,7 +813,7 @@ XLSX.utils.book_append_sheet(workbook, comparisonSheet, "Planlama vs Gerçekleş
 
     {/* ANKET LİNKİ */}
     <a
-      href="https://forms.gle/S2dPhjmp3Qxnko2ZA"
+      href="https://forms.gle/z6WSY1ZqexvCMbHk6"
       target="_blank"
       rel="noopener noreferrer"
       className="bg-green-600 text-white px-6 py-2 rounded inline-block"
